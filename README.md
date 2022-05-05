@@ -47,6 +47,6 @@ A collection of resources that we have found useful when learning about Solana, 
 - [Blockworks Foundation](https://github.com/blockworks-foundation).
 - [Serum Quickstart](https://github.com/armaniferrante/serum-quickstart).
 
-# Credits
+## Credits
 
-Thanks to [@ibrohimkhan](https://github.com/ibrohimkhan) for collating much of this initial list.
+Thanks to [@ibrohimkhan](https://github.com/ibrohimkhan) for assisting in collating this initial list.
