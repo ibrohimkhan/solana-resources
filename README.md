@@ -2,8 +2,6 @@
 
 A collection of resources that we have found useful when learning about Solana, Rust and Smart Contracts.
 
-Credit to @ibrohimkhan for collating much of this list
-
 ## Documentation
 
 - [Introduction to Solana](https://docs.solana.com/introduction).
@@ -48,3 +46,7 @@ Credit to @ibrohimkhan for collating much of this list
 - [Simple Solana Smart Contract Example](https://github.com/ezekiiel/simple-solana-program).
 - [Blockworks Foundation](https://github.com/blockworks-foundation).
 - [Serum Quickstart](https://github.com/armaniferrante/serum-quickstart).
+
+# Credits
+
+Thanks to [@ibrohimkhan](https://github.com/ibrohimkhan) for collating much of this initial list.
