@@ -34,6 +34,7 @@ A collection of resources that we have found useful when learning about Solana, 
 - [Solana Transactions in Depth](https://medium.com/@asmiller1989/solana-transactions-in-depth-1f7f7fe06ac2).
 - [Ok so what the fuck is the deal with solana anyway](https://2501babe.github.io/posts/solana101.html).
 - [Solana Dev Blog](https://jstarry.notion.site/jstarry/Solana-Dev-Blog-302b7e08652c4a2dbc0be4f6a3b0d317).
+- [An Introduction to the Solana Account Model] (https://www.quicknode.com/guides/knowledge-base/an-introduction-to-the-solana-account-model).
 
 ## Github
 
