@@ -27,6 +27,7 @@ A collection of resources that we have found useful when learning about Solana, 
 
 ## Blog Posts
 
+- [Project Serum - Decentralized Exchange on Solana](https://www.nox.im/posts/2022/0207/serum-decentralized-exchange-on-solana/).
 - [Programming on Solana: An Introduction](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction).
 - [8 Innovations that Make Solana the First Web-Scale Blockchain](https://medium.com/solana-labs/7-innovations-that-make-solana-the-first-web-scale-blockchain-ddc50b1defda).
 - [How to Build & Deploy a Solana Smart Contract using Anchor](https://www.becomebetterprogrammer.com/create-solana-smart-contract).
