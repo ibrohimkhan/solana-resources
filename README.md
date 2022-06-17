@@ -12,6 +12,7 @@ A collection of resources that we have found useful when learning about Solana, 
 - [Start Building on Solana](https://www.startonsolana.com).
 - [Project Serum](https://docs.projectserum.com).
 - [Agnostic Orderbook](https://bonfida.github.io/doc-aob-program/agnostic_orderbook)
+- [A technical introduction to the Serum DEX](https://docs.google.com/document/d/1isGJES4jzQutI0GtQGuqtrBUqeHxl_xJNXdtOv4SdII/view)
 
 ## YouTube
 
