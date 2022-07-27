@@ -49,7 +49,3 @@ A collection of resources that we have found useful when learning about Solana, 
 - [Simple Solana Smart Contract Example](https://github.com/ezekiiel/simple-solana-program).
 - [Blockworks Foundation](https://github.com/blockworks-foundation).
 - [Serum Quickstart](https://github.com/armaniferrante/serum-quickstart).
-
-## Credits
-
-Thanks to [@ibrohimkhan](https://github.com/ibrohimkhan) for assisting in collating this initial list.
